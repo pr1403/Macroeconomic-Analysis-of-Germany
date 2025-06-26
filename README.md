@@ -1,9 +1,9 @@
 # Macroeconomic-Analysis-of-Germany
-Objective
+**Objective**
 
 Conduct a top-down macroeconomic analysis of Germany to uncover structural trends, sectoral dynamics, and demographic shifts shaping investment and policy decisions.
 
-Approach
+**Approach**
 
 Analyzed key macroeconomic indicators from 2017 to 2025:
 • GDP growth from €3.27 trillion to projected €4.18 trillion
@@ -19,7 +19,7 @@ Conducted regional benchmarking comparing Germany's performance with other EU na
 
 Studied demographic shifts: rising median age (44.4 to 46.1), low fertility rates (1.5 births/woman), and increasing reliance on working-age immigrants (60% of arrivals)
 
-Outcome
+**Outcome**
 
 Compiled a detailed time-series macroeconomic profile of Germany to inform investment strategies and policy frameworks
 
